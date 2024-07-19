@@ -1,0 +1,13 @@
+name = "MC1.18.2"
+author = "TN_TechNoob"
+version = "v11.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "25af24dd97409931c9184a6c01f734dc7185ae45e8af572b9bdf8d26a7f1cf0d"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.18.2"
