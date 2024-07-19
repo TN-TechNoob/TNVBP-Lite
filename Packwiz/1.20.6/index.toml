@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c5bc698770695a6c4eb6a3de8b6f30a3f06d1b0a4459154d68426c6428be324f"
+hash = "e3ffaaa82194e3c7b0124f10ff8ab4b726f9011340bd6c475125c974a3cddf6f"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -18,18 +18,8 @@ hash = "26c3ca32dffd46207fea06bc6b664461c493f61db1c59cdd2c8bdfd6a25cd36f"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display-fabric.pw.toml"
-hash = "e66629736c1d9383e5a70ed079db512a3fa514596db750bb15045df2ef79010a"
-metafile = true
-
-[[files]]
-file = "mods/betterf3.pw.toml"
-hash = "44aadc95bc3fff93a53ba5976808fc4cab9550f7b0b2933443ea5a212f8d12a9"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "9a629c137758a4fb7a326004325024b9cb9e342fd6abcef1d512cedeea33dfb3"
+hash = "ff6f3c7abc46f2ac662b3241f7e51e32a7edbd3e581e4fb374151720241c0794"
 metafile = true
 
 [[files]]
@@ -69,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "ab9b2f651a52bec27172ed5dd0bf251dbdc81ef50db08657d534ac7ec6af8da0"
+hash = "38cca3f8f12539ce7d14de208f50fc85ad34bc19d01dfd4b0d0361a8fef595e2"
 metafile = true
 
 [[files]]
@@ -124,22 +114,17 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "8e45d779c3818ee4d0b94f191f4447a9e07085d9e20ac024822c3cd16db5d701"
-metafile = true
-
-[[files]]
-file = "mods/in-game-account-switcher.pw.toml"
-hash = "2ae0fe420683e84517c4e8d09aea7b192a7552c530e57ea42cb4956211ecba8a"
+hash = "d1b11df898a7080e7858057ce7ebe1ba4878abfe0323cd8e1d5c990226a27491"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "077943fe49e2eb752b538f8786a32f013c793e5c529b616301b1e8336b2deebd"
+hash = "6e56a6f30ce673360abd2d04510b7d817dbea8e207049ff388a68510dc645c08"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "09211568d20a0966334b0b53b6adcba7dbaf8c6bd216b042916e1dfeb97cdd86"
+hash = "a2fedda734e13942309c8603f459331120d1fe8198f2ef2a6db98ac99e7f2070"
 metafile = true
 
 [[files]]
@@ -174,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "3e7ed8fb7a1d316f3e2eff1ed502b873c9038ebedce473a1ba1567d1f846d2ed"
+hash = "12f8bb31177579f82f16319cd463ae245114b8e5d34a007de546effe768b47f5"
 metafile = true
 
 [[files]]
@@ -204,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "a464ff366dcebcd2a4920650570edf223be0f412e1fde465833ca84d49063ff5"
+hash = "1bc6126a03112a904397c1f600ca75551d9007416e8255d4af2a500201b177ec"
 metafile = true
 
 [[files]]
@@ -214,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-resource-pack-checker.pw.toml"
-hash = "5b56cb5b2e7ad495e9f2dcf12cf4d832350443d58dbc4c4263d29a52b6e4f6ca"
+hash = "fed76dd2298ea41806cfd79f8704d98a83c8c62b4eb3d7e4ec52063c652acc5c"
 metafile = true
 
 [[files]]
@@ -223,28 +208,13 @@ hash = "2bf8b91689072d701e81e139c6dc97db4fa616c0523e3a09e16070c80d2893e3"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "7ba7233cd4f7147cd7792c865b99063d01273448b4c80c302e4a1ce4378e4e03"
-metafile = true
-
-[[files]]
-file = "mods/simple-shulker-preview.pw.toml"
-hash = "8d28bc6e56af1780c45f6bfe39bcbe129b8f6879652ce01cbba59509fdda437e"
-metafile = true
-
-[[files]]
-file = "mods/skinshuffle.pw.toml"
-hash = "3aabe8fd67c707409169bdc4034472a3a20f751e85262e7e9994fa365e107a89"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "28360c5f93c8998255bf1de65498ac2584bed6112aa1f2f9a4d50d3f5922cd76"
+hash = "c428eb05a40ee701061f54f0149aca88ae7483f5d10866688a0979bc8b2286fc"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "21d799ce1b0ef0ff300ecf73a74bc46295cd076ea1736ec0073647a8dd4c21ce"
+hash = "689d29a75066dbd127e7b3932ef80aca45aaab8ba932d2fac9a1046ddf90c397"
 metafile = true
 
 [[files]]
