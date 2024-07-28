@@ -4,4 +4,4 @@
 - **更新**
     - fasterrandom-5.0.1.jar -> fasterrandom-5.1.0.jar
 - **移除**
-    - cubes-without-borders-2.1.1+1.19.3.jar
+    - cubes-without-borders-2.1.1+1.20.jar
