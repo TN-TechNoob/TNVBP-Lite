@@ -1,5 +1,7 @@
 - **新增**
-    - moreculling-1.21-0.26.0.jar
+    - cubes-with-borders-1.1.0+1.14.3.jar
 - **修復**
 - **更新**
+    - fasterrandom-5.0.1.jar -> fasterrandom-5.1.0.jar
 - **移除**
+    - cubes-without-borders-2.1.1+1.19.3.jar
