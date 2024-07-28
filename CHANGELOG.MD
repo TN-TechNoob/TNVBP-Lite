@@ -3,5 +3,7 @@
 - **修復**
 - **更新**
     - fasterrandom-5.0.1.jar -> fasterrandom-5.1.0.jar
+    - cloth-config-15.0.127-fabric.jar -> cloth-config-15.0.128-fabric.jar
+    - modernfix-fabric-5.18.8+mc1.21.jar -> modernfix-fabric-5.19.0+mc1.21.jar
 - **移除**
-    - cubes-without-borders-2.1.1+1.20.jar
+    - cubes-without-borders-2.1.1+1.21.jar
