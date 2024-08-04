@@ -6,11 +6,11 @@ hash = "e3ffaaa82194e3c7b0124f10ff8ab4b726f9011340bd6c475125c974a3cddf6f"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "444e96467c06c14687c23b49fc63bd76d6e72380a0dd8f7164f9b1d5b2074da5"
+hash = "7e52b0eaf57c7a0d54c898f89d63af5ede96ecae43957979a54ee3464e4fc024"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "053c71867f5899ce9747479d47b7463db96c16fa29ed60784351012ed65937f2"
+hash = "78c3c549419c6a85e7384660a7be7768e95136d75301667bf17cdf9ad19b6326"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -234,4 +234,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0ef732b80bca3c74f84824f7e6d12934f1385d22174e1ebfb0d17aab5021fa68"
+hash = "40031a5147afd87fe09f99d5951c1512dad97a34a15a3a2fbc7f2fa6ded44874"
