@@ -1,9 +1,7 @@
 - **新增**
-    - modelfix-1.15-fabric.jar
 - **修復**
 - **更新**
     - 遊戲內設定檔
-    - c2me-fabric-mc1.20.6-0.2.0+alpha.11.96.jar -> c2me-fabric-mc1.20.6-0.2.0+alpha.11.98.jar
-    - particle_core-0.2.3+1.20.5.jar -> particle_core-0.2.4+1.20.6.jar
-    - fabric-api-0.100.4+1.20.6.jar -> fabric-api-0.100.8+1.20.6.jar
+    - fabric-api-0.100.7+1.21.jar -> fabric-api-0.101.0+1.21.jar
+    - particle_core-0.2.3+1.21.jar -> particle_core-0.2.4+1.21.jar
 - **移除**
