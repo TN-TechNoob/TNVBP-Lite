@@ -1,5 +1,12 @@
 - **新增**
 - **修復**
 - **更新**
+    - cloth-config-14.0.126-fabric.jar -> cloth-config-14.0.129-fabric.jar
+    - entity_model_features_fabric_1.20.6-2.1.3.jar -> entity_model_features_fabric_1.20.6-2.2.jar
+    - entityculling-fabric-1.6.6-mc1.20.6.jar -> entityculling-fabric-1.6.7-mc1.20.6.jar
+    - entity_texture_features_fabric_1.20.6-6.1.3.jar -> entity_texture_features_fabric_1.20.6-6.2.jar
+    - ImmediatelyFast-Fabric-1.2.18+1.20.6.jar -> ImmediatelyFast-Fabric-1.2.20+1.20.6.jar
+    - noisium-fabric-2.1.0+mc1.20.5-1.20.6.jar -> noisium-fabric-2.3.0+mc1.20.5-1.20.6.jar
+    - c2me-fabric-mc1.20.6-0.2.0+alpha.11.98.jar -> c2me-fabric-mc1.20.6-0.2.0+alpha.11.100.jar
     - fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar -> fabric-language-kotlin-1.12.0+kotlin.2.0.10.jar
 - **移除**
