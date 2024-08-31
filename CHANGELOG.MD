@@ -1,7 +1,6 @@
 - **新增**
 - **修復**
 - **更新**
-    - Resourcify (1.19.4-fabric)-1.4.0.jar -> Resourcify (1.19.4-fabric)-1.4.1.jar
-    - entityculling-fabric-1.6.2-mc1.19.4.jar -> entityculling-fabric-1.7.0-mc1.19.4.jar
+    - Resourcify (1.18.x-fabric)-1.4.0.jar -> Resourcify (1.18.x-fabric)-1.4.1.jar
     - fabric-language-kotlin-1.12.0+kotlin.2.0.10.jar -> fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar
 - **移除**
