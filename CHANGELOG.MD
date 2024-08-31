@@ -1,6 +1,11 @@
 - **新增**
 - **修復**
 - **更新**
-    - Resourcify (1.18.x-fabric)-1.4.0.jar -> Resourcify (1.18.x-fabric)-1.4.1.jar
     - fabric-language-kotlin-1.12.0+kotlin.2.0.10.jar -> fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar
+    - fzzy_config-0.3.5+1.20.6.jar -> fzzy_config-0.3.7+1.20.6.jar
+    - entity_texture_features_fabric_1.20.6-6.2.jar -> entity_texture_features_fabric_1.20.6-6.2.2.jar
+    - Resourcify (1.20.5-1.20.6-fabric)-1.4.0.jar -> Resourcify (1.20.5-1.20.6-fabric)-1.4.1.jar
+    - entityculling-fabric-1.6.7-mc1.20.6.jar -> entityculling-fabric-1.7.0-mc1.20.6.jar
+    - entity_model_features_fabric_1.20.6-2.2.jar -> entity_model_features_fabric_1.20.6-2.2.2.jar
+    - ImmediatelyFast-Fabric-1.2.20+1.20.6.jar -> ImmediatelyFast-Fabric-1.2.21+1.20.6.jar
 - **移除**
