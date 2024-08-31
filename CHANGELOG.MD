@@ -1,11 +1,18 @@
 - **新增**
 - **修復**
 - **更新**
+    - moreculling-1.21-0.26.0.jar -> moreculling-1.21-0.27.1.jar
+    - Resourcify (1.21+-fabric)-1.4.0.jar -> Resourcify (1.21+-fabric)-1.4.1.jar
     - fabric-language-kotlin-1.12.0+kotlin.2.0.10.jar -> fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar
-    - fzzy_config-0.3.5+1.20.6.jar -> fzzy_config-0.3.7+1.20.6.jar
-    - entity_texture_features_fabric_1.20.6-6.2.jar -> entity_texture_features_fabric_1.20.6-6.2.2.jar
-    - Resourcify (1.20.5-1.20.6-fabric)-1.4.0.jar -> Resourcify (1.20.5-1.20.6-fabric)-1.4.1.jar
-    - entityculling-fabric-1.6.7-mc1.20.6.jar -> entityculling-fabric-1.7.0-mc1.20.6.jar
-    - entity_model_features_fabric_1.20.6-2.2.jar -> entity_model_features_fabric_1.20.6-2.2.2.jar
-    - ImmediatelyFast-Fabric-1.2.20+1.20.6.jar -> ImmediatelyFast-Fabric-1.2.21+1.20.6.jar
+    - fzzy_config-0.3.5+1.21.jar -> fzzy_config-0.3.7+1.21.jar
+    - ImmediatelyFast-Fabric-1.2.20+1.21.1.jar -> ImmediatelyFast-Fabric-1.2.21+1.21.1.jar
+    - reeses_sodium_options-1.7.3+mc1.21.jar -> reeses-sodium-options-fabric-1.8.0-beta.2+mc1.21.1.jar  
+    - sodium-extra-0.5.7+mc1.21.jar -> sodium-extra-fabric-0.6.0-beta.1+mc1.21.1.jar
+    - entity_model_features_fabric_1.21-2.2.jar -> entity_model_features_fabric_1.21-2.2.2.jar
+    - entityculling-fabric-1.6.7-mc1.21.jar -> entityculling-fabric-1.7.0-mc1.21.jar
+    - modmenu-11.0.1.jar -> modmenu-11.0.2.jar
+    - sodium-fabric-0.5.11+mc1.21.jar -> sodium-fabric-0.6.0-beta.1+mc1.21.jar
+    - iris-1.7.3+mc1.21.jar -> iris-fabric-1.8.0-beta.3+mc1.21.1.jar
+    - entity_texture_features_fabric_1.21-6.2.jar -> entity_texture_features_fabric_1.21-6.2.2.jar
 - **移除**
+    - indium-1.0.35+mc1.21.jar
