@@ -61,7 +61,7 @@ jobs:
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           name: MC${{ matrix.mc_version}}-${{ env.PACK_VERSION }}
-          modrinth-id: Ohwb2cTF
+          modrinth-id: Er2bMzL7
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           files: /tmp/dist/TNVBP_${{ matrix.mc_version}}-${{ env.PACK_VERSION }}.mrpack
           changelog: |
