@@ -1,12 +1,12 @@
 name = "MC1.20.1"
 author = "TN_TechNoob"
-version = "v4.1.0"
+version = "v4.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "647686d3c0c4b1eb60e09d4cc2185f38ed0d3d9b1736c1498b80c14829653720"
+hash = "dd6c1a9cc68069be0b8d752ec4aabadd24b1b492c1eea5523ad793a11c9cddb1"
 
 [versions]
 fabric = "0.16.9"
