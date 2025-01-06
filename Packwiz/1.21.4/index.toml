@@ -1,13 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/sodium-extra-options.json"
+hash = "e8cd3aee1f695d4e440bea89faecd338bccb45c804dc3bfa3bff2e783be985ee"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "fa311616de3678d12eb73c83dd4790fd2bc407cab503b493fa87f8f35d378f15"
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "f6742291a803846f8e52b1aeb60beac9cc4e96784ac525d466a45b73f7e5e14e"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "60bfc30e9dd32354cd8cfd5c56ecb01a3cd233f5d2828c50fe31d3c949f6fad7"
+hash = "2fe5e448a5e773c58e9cef866fbb082bf47d8177eeef751de0b35731fb24fa4a"
 metafile = true
 
 [[files]]
@@ -37,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "422916b970e0b2cba8c4a7937957244cf5a2cd22c2905e29fcd41da45a119f05"
+hash = "187026fe5d603008a4b30559103487f0ebf08682bf3e470ab743227f5265a422"
 metafile = true
 
 [[files]]
@@ -102,12 +110,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "ea9826108068cc02843bc0788c05f0810991dc993c236135e4efa0542b5636e9"
+hash = "e0ee868032501d71c583621a03fbb7317aa4997c234f5efe59fe498e10e0bf9b"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "a2aec4dab64156218eb3c7a69f5e555a5b93ef842644398af97f9bfb9ccf4e8a"
+hash = "190da82bace64fdc2a741dd665568ad65d0c82b38e71e219edd3af2c76a1db3b"
 metafile = true
 
 [[files]]
@@ -169,3 +177,7 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "78d272c0de951f08cfc81543f9033056d18fd5bd45de32b1618efa74fc54eaa2"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "3670193cd058441521b5e0fe9748838c13be3099f2df2a0317b56a71da4d42ee"
