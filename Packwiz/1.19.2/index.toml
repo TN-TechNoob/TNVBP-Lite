@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "40540429e5be63a01902ea179f4c456b549045431b95776a7f0652fd215abfa6"
+hash = "1d2ae0cc5add584fc61057d76c37d109a3cd834d35d1ae6bf9d8527260f1db5f"
 metafile = true
 
 [[files]]
@@ -234,4 +234,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "01e3bc976d7eec91a11914404d93a5c50160c68c989a0e909b900a780062d882"
+hash = "ebba21a12f36a3037e03bb4855a144cf5da056bb46a5397f803c455af95b0f5b"
