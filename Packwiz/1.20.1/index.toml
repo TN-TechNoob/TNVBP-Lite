@@ -38,16 +38,6 @@ hash = "765c845fe7e63a5d1ce2a4a4f31dac08c8f6a58dc61f73f2556287f72628e6d8"
 metafile = true
 
 [[files]]
-file = "mods/cubes-with-borders.pw.toml"
-hash = "2d88434fe7ff251854d593e4b242c11e1d751dded23f198ac3b9d00dd85172f2"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
-hash = "30f4d82fba9ec64f6ea639de73465573b655f2ac5781541d227f27c580ac8a34"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "ee1e98b40803c9d6d1e032dc4b0424cb958b52364e175e0d5691019c8f3fc784"
 metafile = true
@@ -128,11 +118,6 @@ hash = "96ff6cc3a3105e0fa6172dbb0f0a51f2952e24f25a1d1372f6f4877b6e868110"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "da0f4d445cd7afa2cf1d85b1ad13a9b2de61b514a0a83f068e4efeb5a3a7897d"
-metafile = true
-
-[[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "26ab4621e99508ce17ef2e74565b193e15ecd704f549bd6d4a95f164f9f0e896"
 metafile = true
@@ -145,11 +130,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
-metafile = true
-
-[[files]]
-file = "mods/main-menu-credits.pw.toml"
-hash = "ffda690956d39e34434602abb85723ae0e1f27eca34a709dae9e16c1de886c48"
 metafile = true
 
 [[files]]
