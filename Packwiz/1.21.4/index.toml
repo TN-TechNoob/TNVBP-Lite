@@ -33,6 +33,11 @@ hash = "c98245c913fb7f0860ce42ad4bcbcaec7947120d0cde6cf45906ad63a86e16f0"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "f32c30de1ae7dbeeae00b654eb15ea358c6d26f631dc292bdb88dba9c30a8cc8"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "6c94f2d5e791983e7cd4d7f2deb3e0abe1d8531ff42843aab1f7e4d8505a44d4"
 metafile = true
@@ -150,6 +155,11 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "14948a17a7f41a3d28b049b71f28322c46545c1315cedf5577cba464000469bc"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "c2310a0880bfee05469c4185390e49ef69496ebda4a9508a322b16c39dd24a96"
 metafile = true
 
 [[files]]
