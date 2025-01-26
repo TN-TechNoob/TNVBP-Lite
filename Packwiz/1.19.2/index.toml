@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "2cd4c3328c743e9ab307ceb292a7a8f87dcccb1c5b07ec4686bd117a36f5fd7f"
-
-[[files]]
 file = "config/sodium-extra-options.json"
 hash = "7efe95beaa111b8059c9ed42a223e46695bcb8db6e055a73f94bec6cd4b9685f"
 
@@ -35,16 +31,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "b2b995751eaded32d26e3343360abcddc0c1b70dfb48cc2281d0cdebd55c9c71"
-metafile = true
-
-[[files]]
-file = "mods/cubes-with-borders.pw.toml"
-hash = "2d88434fe7ff251854d593e4b242c11e1d751dded23f198ac3b9d00dd85172f2"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
-hash = "18423f7a6c28efdcd8f9438bb4550e91fad56c54f4340a2952d530d7a06a2d2a"
 metafile = true
 
 [[files]]
@@ -128,11 +114,6 @@ hash = "fe0985c7410169318b984421acd7237a1fc7d7c200cae321ac43e482d55dc3e5"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "d967177425f446bba2b2b4caac31a48f80895088e95ab66f2399215e33fdb17d"
-metafile = true
-
-[[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "26ab4621e99508ce17ef2e74565b193e15ecd704f549bd6d4a95f164f9f0e896"
 metafile = true
@@ -145,16 +126,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "3c2b05b549d100f8d2afe3888bced6d613ae2c227ceb77cea3fa1ed471fa4722"
-metafile = true
-
-[[files]]
-file = "mods/main-menu-credits.pw.toml"
-hash = "62c50565c56a727c83f1d264f7604c536de82e01aace275d62bf070c1620e236"
-metafile = true
-
-[[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "228e46fca2e0b0c83e77f54338ff579952c47669ad427ffcdbd6e2a36eacffdf"
 metafile = true
 
 [[files]]
