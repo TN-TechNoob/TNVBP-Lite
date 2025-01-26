@@ -38,6 +38,11 @@ hash = "765c845fe7e63a5d1ce2a4a4f31dac08c8f6a58dc61f73f2556287f72628e6d8"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "5944ed5a779d142aea9ccd8c466a20fa3d9233a29f2be1e5ae54fc15f5edd57e"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "ee1e98b40803c9d6d1e032dc4b0424cb958b52364e175e0d5691019c8f3fc784"
 metafile = true
@@ -163,6 +168,11 @@ hash = "515b1bbd8e92bb4ad03a9cd63a28c499f4ebb13fab4716b3e486eb5dd0f3d36c"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "f8879a5a06411d47d27dc543c718307afb95286a0b91a593692b5a5033ade53d"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "83a830577bb6d2e14dd8a1d2e4205ad3bd97c1f6221afab25347edbf84bc2e89"
 metafile = true
@@ -200,6 +210,21 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "6d361c31e7d7cfb54ea96f3ff8f1818a9801391b40ee078343bfbd3f988d04bc"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
+metafile = true
+
+[[files]]
+file = "mods/title-fixer.pw.toml"
+hash = "10b6a4137e030a03598f86b28fe03c9001d6eb2accb2668d5d68d7eca9a7f575"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
 metafile = true
 
 [[files]]
