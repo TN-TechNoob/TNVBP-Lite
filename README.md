@@ -1,4 +1,4 @@
-![TNVBP Lite](https://i.imgur.com/gdRKvGu.png) 
+![TNVBP Lite Banner](https://cdn.modrinth.com/data/Er2bMzL7/images/b669054acf52f7bd39df7f1e0b946d9e289db42d.png) 
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/Er2bMzL7?label=Downloads&logo=modrinth&style=flat-square) 
 ![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/Er2bMzL7?logo=modrinth&style=flat-square) 
 [![Discord](https://img.shields.io/discord/607123183249653770?label=Discord&logo=discord&style=flat-square)](https://discord.gg/Yj9WH3P8RN)
