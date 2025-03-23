@@ -69,12 +69,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "052f543ece200daf0744362730c06cd2bb0a4cd9df0d1966c04ac94732b828ec"
+hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
+hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
@@ -109,12 +109,12 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "b14dee29e8484c1f489581af8c87e280927803fda83a325b1a45efe697d00a97"
+hash = "3ab548f2dc3b40e9d544b020714390a160c4ad10aa4c2cb8d59e9605abdc818b"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "733f3075781ea22bf1a1a107b03b2bfb49f77d69b6f9be666827361c453eda25"
+hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "8087b7c7b254bfef1bf81c78c5f720398ae5bdfa9f42b31bf673396039dd6c5a"
+hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/wi-zoom.pw.toml"
-hash = "456baae42de36ac03ef0e1fb85cbc40bd017f8e18b8f0381e98e33fb6603d07b"
+hash = "44d8c335a317321656239b2dd2a90ade818d71f6f3b2de46467feb5442677c52"
 metafile = true
 
 [[files]]
