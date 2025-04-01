@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "8dc45c624a42cf37b923957c9e75c27c26e28e6b4ecee63d0ebe82b41d2e416c"
+hash = "e286c31c1b559e037730992bdc995383f6e783baa7b8c6c625e52c48a509d8b0"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "3ab548f2dc3b40e9d544b020714390a160c4ad10aa4c2cb8d59e9605abdc818b"
+hash = "ebd0d16046fb2c4c48959e842febec628bf4df6096a4548e03347d264c1d0b9a"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "1b9e1b1ae8a01949cf86082a18d6a0e5988a9c8564a2d1a505a811ddd089c034"
+hash = "e2e40b63c7c0aff577b89078a3205cb3ddc773b5c648e2beefe0883efa18e40d"
 metafile = true
 
 [[files]]
