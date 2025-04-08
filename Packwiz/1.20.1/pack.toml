@@ -1,13 +1,13 @@
 name = "MC1.20.1"
 author = "TN_TechNoob"
-version = "v6.1.3"
+version = "v6.1.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a8e3adfc6416d2a4217d2cd33ff8f4c6871e9f3da20f4fa8323dbb755a32b247"
+hash = "d42e2ef08634adfb6a34ccfa4c8cf5e5fb902c7c2cea0326c5749c6afbf581f1"
 
 [versions]
-fabric = "0.16.10"
+fabric = "0.16.12"
 minecraft = "1.20.1"
