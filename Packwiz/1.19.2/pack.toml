@@ -1,6 +1,6 @@
 name = "MC1.19.2"
 author = "TN_TechNoob"
-version = "v2.0.5"
+version = "v2.0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "e8e2442bb442a726b3ba8767c78307ec4ef1a680e0609b1b7bd9c5267fec8165"
 
 [versions]
-fabric = "0.16.10"
+fabric = "0.16.12"
 minecraft = "1.19.2"
