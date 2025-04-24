@@ -1,6 +1,6 @@
-![TNVBP Lite Banner](https://cdn.modrinth.com/data/Er2bMzL7/images/b669054acf52f7bd39df7f1e0b946d9e289db42d.png) 
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/Er2bMzL7?label=Downloads&logo=modrinth&style=flat-square) 
-![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/Er2bMzL7?logo=modrinth&style=flat-square) 
+![TNVBP Lite Banner](https://cdn.modrinth.com/data/Er2bMzL7/images/b669054acf52f7bd39df7f1e0b946d9e289db42d.png)
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/Er2bMzL7?label=Downloads&logo=modrinth&style=flat-square)
+![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/Er2bMzL7?logo=modrinth&style=flat-square)
 [![Discord](https://img.shields.io/discord/607123183249653770?label=Discord&logo=discord&style=flat-square)](https://discord.gg/Yj9WH3P8RN)
 
 <details>
@@ -61,9 +61,14 @@
             <th>1.21.4</th>
         </tr>
         <tr>
-            <th>1.21.1 ~ 1.21.3</th>
+            <th>1.21.2 ~ 1.21.3</th>
             <th></th>
             <th></th>
+        </tr>
+        <tr>
+            <th></th>
+            <th></th>
+            <th>1.21.1</th>
         </tr>
         <tr>
             <th></th>
@@ -235,9 +240,14 @@
             <th>1.21.4</th>
         </tr>
         <tr>
-            <th>1.21.1 ~ 1.21.3</th>
+            <th>1.21.2 ~ 1.21.3</th>
             <th></th>
             <th></th>
+        </tr>
+        <tr>
+            <th></th>
+            <th></th>
+            <th>1.21.1</th>
         </tr>
         <tr>
             <th></th>
