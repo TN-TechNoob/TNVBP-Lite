@@ -42,29 +42,27 @@ jobs:
               echo "changed=false" >> $GITHUB_ENV
           fi
       - name: Set up JDK 21
+        if: env.changed == 'true'
         uses: graalvm/setup-graalvm@v1
         with:
           java-version: '21'
           distribution: 'graalvm'
           github-token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Setup pakku
-        run: |
-          wget https://github.com/juraj-hrivnak/Pakku/releases/download/v1.2.1/pakku.jar
       - name: Build Pack
         if: env.changed == 'true'
         run: |
-          mkdir -p /tmp/dist
           pushd Pakku/${{ matrix.mc_version}}
           PACK_VERSION=$(jq -r '.version' pakku.json)
           echo "PACK_VERSION=$PACK_VERSION" >> $GITHUB_ENV
-          java -jar ./pakku.jar export
+          wget https://github.com/juraj-hrivnak/Pakku/releases/download/v1.2.1/pakku.jar
+          java -jar pakku.jar export
           popd
       - name: Attest mrpack
         id: attest-mrpack
         if: env.changed == 'true'
         uses: actions/attest-build-provenance@v1
         with:
-          subject-path: /tmp/dist/*
+          subject-path: /Pakku/${{ matrix.mc_version}}/*
       - name: Publish to Modrinth
         if: env.changed == 'true'
         uses: Kir-Antipov/mc-publish@v3.3
@@ -72,7 +70,7 @@ jobs:
           name: MC${{ matrix.mc_version}}-${{ env.PACK_VERSION }}
           modrinth-id: Er2bMzL7
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          files: /tmp/dist/build/modrinth/TNVBP_Lite_MC${{ matrix.mc_version}}-${{ env.PACK_VERSION }}.mrpack
+          files: /Pakku/${{ matrix.mc_version}}/build/modrinth/TNVBP_Lite_MC${{ matrix.mc_version}}-${{ env.PACK_VERSION }}.mrpack
           changelog: |
             ${{ env.commit_log }}
           loaders: fabric
