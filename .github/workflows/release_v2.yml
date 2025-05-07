@@ -41,13 +41,13 @@ jobs:
               echo "No commits found between $PREVIOUS_TAG and $LATEST_TAG."
               echo "changed=false" >> $GITHUB_ENV
           fi
-      - name: Set up JDK 21
+      - name: Setup Java JDK
         if: env.changed == 'true'
-        uses: graalvm/setup-graalvm@v1
+        uses: actions/setup-java@v4.7.1
         with:
+          distribution: 'temurin' # See 'Supported distributions' for available options
           java-version: '21'
-          distribution: 'graalvm'
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          java-package: 'jre'
       - name: Build Pack
         if: env.changed == 'true'
         run: |
