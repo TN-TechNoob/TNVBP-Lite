@@ -57,7 +57,7 @@ jobs:
           pushd Pakku/${{ matrix.mc_version}}
           PACK_VERSION=$(jq -r '.version' pakku.json)
           echo "PACK_VERSION=$PACK_VERSION" >> $GITHUB_ENV
-          java -jar pakku.jar export
+          java -jar ./pakku.jar export
           popd
       - name: Attest mrpack
         id: attest-mrpack
