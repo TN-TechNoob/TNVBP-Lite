@@ -54,7 +54,7 @@ jobs:
         if: env.changed == 'true'
         run: |
           mkdir -p /tmp/dist
-          pushd Packku/${{ matrix.mc_version}}
+          pushd Pakku/${{ matrix.mc_version}}
           PACK_VERSION=$(jq -r '.version[0]' pakku.json)
           echo "PACK_VERSION=$PACK_VERSION" >> $GITHUB_ENV
           java -jar pakku.jar export
