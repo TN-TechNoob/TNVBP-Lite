@@ -9,7 +9,7 @@ jobs:
   release:
     strategy:
       matrix:
-        mc_version: ["1.18.2", 1.19.2", 1.20.1", 1.21.1", "1.21.4"]
+        mc_version: ["1.18.2", "1.19.2", "1.20.1", "1.21.1", "1.21.4"]
     runs-on: ubuntu-latest
     environment: github-actions
     permissions:
@@ -45,9 +45,9 @@ jobs:
         if: env.changed == 'true'
         uses: actions/setup-java@v4.7.1
         with:
-          distribution: 'temurin' # See 'Supported distributions' for available options
-          java-version: '21'
-          java-package: 'jre'
+          distribution: "temurin"
+          java-version: "21"
+          java-package: "jre"
       - name: Build Pack
         if: env.changed == 'true'
         run: |
