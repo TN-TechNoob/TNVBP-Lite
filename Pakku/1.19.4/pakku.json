@@ -1,0 +1,9 @@
+{
+    "name": "TNVBP_Lite_MC1.19.4",
+    "version": "v4.0.6",
+    "author": "TN_TechNoob",
+    "client_overrides": [
+        "config",
+        "options.txt"
+    ]
+}
