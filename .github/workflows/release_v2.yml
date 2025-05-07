@@ -55,7 +55,7 @@ jobs:
         run: |
           mkdir -p /tmp/dist
           pushd Pakku/${{ matrix.mc_version}}
-          PACK_VERSION=$(jq -r '.version[0]' pakku.json)
+          PACK_VERSION=$(jq -r '.version' pakku.json)
           echo "PACK_VERSION=$PACK_VERSION" >> $GITHUB_ENV
           java -jar pakku.jar export
           popd
