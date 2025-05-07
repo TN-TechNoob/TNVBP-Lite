@@ -1,8 +1,0 @@
-{
-  "quality": {
-    "enable_vignette": false
-  },
-  "performance": {
-    "always_defer_chunk_updates": true
-  }
-}
