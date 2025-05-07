@@ -62,7 +62,7 @@ jobs:
         if: env.changed == 'true'
         uses: actions/attest-build-provenance@v1
         with:
-          subject-path: /Pakku/${{ matrix.mc_version}}/*
+          subject-path: ./Pakku/${{ matrix.mc_version}}/build/modrinth/*
       - name: Publish to Modrinth
         if: env.changed == 'true'
         uses: Kir-Antipov/mc-publish@v3.3
@@ -70,7 +70,7 @@ jobs:
           name: MC${{ matrix.mc_version}}-${{ env.PACK_VERSION }}
           modrinth-id: Er2bMzL7
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          files: /Pakku/${{ matrix.mc_version}}/build/modrinth/TNVBP_Lite_MC${{ matrix.mc_version}}-${{ env.PACK_VERSION }}.mrpack
+          files: ./Pakku/${{ matrix.mc_version}}/build/modrinth/TNVBP_Lite_MC${{ matrix.mc_version}}-${{ env.PACK_VERSION }}.mrpack
           changelog: |
             ${{ env.commit_log }}
           loaders: fabric
