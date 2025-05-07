@@ -50,7 +50,7 @@ jobs:
           pushd Packwiz/${{ matrix.mc_version}}
           PACK_VERSION=$(grep -oP 'version = "\K[^"]+' "pack.toml")
           echo "PACK_VERSION=$PACK_VERSION" >> $GITHUB_ENV
-          /tmp/packwiz modrinth export -o /tmp/dist/TNVBP_${{ matrix.mc_version}}-$PACK_VERSION.mrpack
+          /tmp/packwiz modrinth export -o /tmp/dist/TNVBP_Lite_${{ matrix.mc_version}}-$PACK_VERSION.mrpack
           popd
       - name: Attest mrpack
         id: attest-mrpack
@@ -65,7 +65,7 @@ jobs:
           name: MC${{ matrix.mc_version}}-${{ env.PACK_VERSION }}
           modrinth-id: Er2bMzL7
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          files: /tmp/dist/TNVBP_${{ matrix.mc_version}}-${{ env.PACK_VERSION }}.mrpack
+          files: /tmp/dist/TNVBP_Lite_${{ matrix.mc_version}}-${{ env.PACK_VERSION }}.mrpack
           changelog: |
             ${{ env.commit_log }}
           loaders: fabric
