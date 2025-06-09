@@ -3,9 +3,9 @@
     "portal": false
   },
   "extra_settings": {
-    "overlay_corner": "TOP_LEFT",
+    "text_contrast": "SHADOW",
     "show_fps": true,
-    "show_f_p_s_extended": true,
+    "show_f_p_s_extended": false,
     "tutorial_toast": false
   }
 }
