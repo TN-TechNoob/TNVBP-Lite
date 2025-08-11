@@ -116,8 +116,8 @@
         </tr>
         <tr>
             <th></th>
-            <th></th>
             <th>1.19.2</th>
+            <th></th>
         </tr>
         <tr>
             <th>1.19 ~ 1.19.1</th>
@@ -126,8 +126,8 @@
         </tr>
         <tr>
             <th></th>
-            <th></th>
             <th>1.18.2</th>
+            <th></th>
         </tr>
         <tr>
             <th>1.18.1 and older</th>
@@ -305,8 +305,8 @@
         </tr>
         <tr>
             <th></th>
-            <th></th>
             <th>1.19.2</th>
+            <th></th>
         </tr>
         <tr>
             <th>1.19 ~ 1.19.1</th>
@@ -315,8 +315,8 @@
         </tr>
         <tr>
             <th></th>
-            <th></th>
             <th>1.18.2</th>
+            <th></th>
         </tr>
         <tr>
             <th>1.18.1 以下</th>
